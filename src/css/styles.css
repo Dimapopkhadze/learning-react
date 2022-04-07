@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+header{
+    background: #03a9f4;
+    text-align:center
+}
+.logo{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+
+}
+header input {
+    font-size: 20px;
+    margin: 20px 0;
+    border: none;
+}
+.news_item{
+    background-color: red;
+}
